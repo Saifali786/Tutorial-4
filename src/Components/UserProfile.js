@@ -47,8 +47,7 @@ export default function UserProfile() {
                     About:{" "}
                   </h5>
                 </span>
-
-                <p style={{ display: "inline", fontSize: "1rem" }}>
+                <p style={{ display: "inline", fontSize: "1.25rem" }}>
                   {userData.about}
                 </p>
               </h5>

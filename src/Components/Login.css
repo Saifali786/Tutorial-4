@@ -1,3 +1,4 @@
+/* Reference: https://stackoverflow.com/questions/42125775/reactjs-react-router-how-to-center-div */
 .center-screen {
   display: flex;
   justify-content: center;
