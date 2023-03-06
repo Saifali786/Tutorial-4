@@ -1,0 +1,30 @@
+/* Reference: https://bbbootstrap.com/snippets/reactjs-user-profile-list-items-92852280 */
+* {
+  padding: 0;
+  margin: 0;
+}
+html,
+body,
+#app,
+#app > div {
+  height: 100%;
+}
+.container {
+  height: 35vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+.profile_details h2 {
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+.card_profile {
+  width: 500px;
+  background-color: black;
+  border-radius: 9px;
+  padding: 20px;
+  color: #fff;
+}
